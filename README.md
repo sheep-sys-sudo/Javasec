@@ -1,2 +1,2 @@
 # Javasec
-Hope this can help you~
+emmm，这里会存储一些练习的代码环境，以及一些杂七杂八的东西，希望会对每一个初学Java安全的人产生一丢丢帮助
